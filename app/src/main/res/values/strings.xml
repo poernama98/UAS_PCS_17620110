@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Rizky Purnama 17.62.0110</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Event</string>
+    <string name="title_dashboard">Teams</string>
+    <string name="title_notifications">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quit">Do You Want To Quit ?</string>
+    <array name="league">
+        <item>English Premier League</item>
+        <item>Spanish La Liga</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+    </array>
+
+    <string name="title_activity_detail_team">DetailTeamActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_player">DetailPlayerActivity</string>
+    <string name="description">Description</string>
+    <string name="manager">Manager</string>
+    <string name="stadium_description">Stadium Description</string>
+    <string name="jersey">Jersey</string>
+    <string name="gagal">Gagal</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="fav">Favorite</string>
+    <string name="event">Schedule</string>
+    <string name="ket">Favorite Data Still Empty</string>
+    <string name="table">Table</string>
+    <string name="vs">vs</string>
+    <string name="data_kosong">Data Not Available, Data Will Be There When Match In Do</string>
+    <string name="team">Team</string>
+    <string name="savefavorite">Save Favorite</string>
+    <string name="deletefavorite">Delete Favorite</string>
+</resources>
